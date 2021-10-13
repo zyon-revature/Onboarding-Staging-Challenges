@@ -17,22 +17,6 @@ public class Main {
 			System.out.printf("Number: %d -> Squared: %.2f%n", k, squares.get(k));
 		}
 		
-		String str1 = "abcd", str2 = "dabc";
-		StringBuffer combo1 = new StringBuffer(), combo2 = new StringBuffer();
-		combo1.append(str1);
-		combo1.append(str1);
-		combo2.append(str2);
-		combo2.append(str2);
-		
-		System.out.println(combo1);
-		System.out.println(combo2);
-		
-		boolean isRotated = false;
-		if(combo1.toString().contains(str2) && combo2.toString().contains(str1)) {
-			isRotated = true;
-			System.out.println(isRotated);
-		}
-		
 		
 	}
 
