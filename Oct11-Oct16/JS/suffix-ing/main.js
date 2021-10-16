@@ -1,19 +1,24 @@
-const testString = "sting coming bringing Letting sing going Ping king sHrink dOing";
-const arr = testString.split(" ");   
-var found = [];
+const readline = require('readline');
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
 
-function testRegex(arr){
-    // let pattern = new RegExp("[a-z|A-Z]\{2\}[a-z|A-Z]*(ing$)");
-    let pattern = new RegExp("([a-z\|A-Z])*[aeiou|AEIOU]+([a-z\|A-Z])*([i\|I][n\|N][g\|G]$)");
-    let exists = pattern.test(arr);
-    return exists;
+function testRegex(txt){
+    let pattern = /[a-z|A-Z]*[aeiou|AEIOU]+[a-z|A-Z]*ing/g;
+    return txt.match(pattern);
 }
 
-arr.forEach(str => {
-    if(testRegex(str) != null){
-        console.log(str + ": " + testRegex(str));
-        found.push(str);
-    }
+rl.question("Enter text: ", function(input) {
+    var found = testRegex(input);
+   console.log("Word(s) matching parameters: ");
+   console.log(found);
+
+   rl.close();
+});
+
+rl.on("close", function () {
+    process.exit(0);
 });
 
 
