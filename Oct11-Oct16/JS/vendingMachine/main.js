@@ -3,16 +3,13 @@ class Coin {
         this.name = name;
         this.value = value;
     }
-
     display(){
-        if(value >= 100){
+        if( this.value >= 100){
             console.log("Item name: " + this.name + "\tCost: $" + this.value);
         }
-        else
-        {
+        else {
             console.log("Item name: " + this.name + "\tCost: " + this.value + "¢");
         }
-
     }
 }
 class Product {
@@ -21,15 +18,25 @@ class Product {
         this.cost = cost;
     }
 }
-
-const Coins = [
+const coins = [
     new Coin("fiveDollar", 500), new Coin("twoDollar", 200), new Coin("dollar", 100),
     new Coin("fiftyCents", 50), new Coin("twentyCents", 20), new Coin("tenCents", 10)
 ];
+coinsDisplay = function(merch){
+    merch.forEach(i => i.display());
+};
 
-vendingDisplay = function(){
+// coinsDisplay(coins);
+// console.log();
 
-    return null;
-}
+const products = [
+    new Product("Chips", 100), new Product("Carmel Popcorn", 200), new Product("Popcorn", 100),
+    new Product("Cinnamon Roll", 500), new Product("Pop", 500), new Product("Mints", 20), new Product("Gum", 10)
+];
 
-console.log(Coins[0]);
+displayProducts = function(products) {
+    products.forEach(product => console.log("%s: %d", product.name, product.cost));
+};
+
+displayProducts(products);
+
