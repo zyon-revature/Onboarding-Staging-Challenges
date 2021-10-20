@@ -1,0 +1,12 @@
+{
+  "name": "movingrobot",
+  "version": "1.0.0",
+  "description": "This robot roams around a 2D grid. It starts at (0, 0) facing North. After each time it moves, the robot rotates 90 degrees clockwise. Given the amount the robot has moved each time, you have to calculate the robot's final position. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zyon Savery",
+  "license": "ISC"
+}
