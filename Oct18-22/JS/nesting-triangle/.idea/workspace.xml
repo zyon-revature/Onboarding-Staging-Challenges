@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f74eedbb-b005-47fa-8f99-3bc78ad30478" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/balanced-match/.github/.FUNDING.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/concat-map/..travis.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/console-browserify/..travis.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/console-browserify/test/static/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/date-now/..travis.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/date-now/test/static/.index.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/dom-serializer/node_modules/domelementtype/lib/.index.d.ts.map.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/dom-serializer/node_modules/entities/lib/.decode.d.ts.map.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/dom-serializer/node_modules/entities/lib/.decode_codepoint.d.ts.map.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/dom-serializer/node_modules/entities/lib/.encode.d.ts.map.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/dom-serializer/node_modules/entities/lib/.index.d.ts.map.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/domhandler/..travis.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/entities/..travis.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/entities/test/.mocha.opts.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/exit/..travis.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/htmlparser2/..travis.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/htmlparser2/test/Documents/.Attributes.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/htmlparser2/test/Documents/.Basic.html.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/jshint/dist/.jshint-rhino.js.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/jshint/dist/.jshint.js.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/lodash/.flake.lock.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/lodash/.flake.nix.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Oct11-Oct16/JS/node_modules/shelljs/..travis.yml.icloud" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1zmYN5aOLwcOu4Ad1HEQlP2e05N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.18.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.27" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f74eedbb-b005-47fa-8f99-3bc78ad30478" name="Changes" comment="" />
+      <created>1634754687763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634754687763</updated>
+      <workItem from="1634754693382" duration="4950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
